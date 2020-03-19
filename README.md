@@ -3,11 +3,11 @@
 ## Your First Text Mining Project with Python in 3 steps
 
 1. Building a corpus
-- using Tweepy to gather sample text data from Twitter's API
+	- using Tweepy to gather sample text data from Twitter's API
 2. Analyzing text
-- analyzing the sentiment of a piece of text with our own SDK
+	- analyzing the sentiment of a piece of text with our own SDK
 3. Visualising results
-- how to use Pandas and matplotlib to see the results of your work
+	- how to use Pandas and matplotlib to see the results of your work
 
 ---
 
@@ -124,10 +124,10 @@ https://github.com/sebag07/Hierarchical-Clustering/blob/master/HierarchicalClust
 
 ### Marking and Feedback
 1. Learning Outcomes
-- Solve real-word data-mining, data-indexing and information extraction tasks
-- Demonstrate knowledge and understanding of:
-	* Key concepts, tools and approaches for data mining on complex unstructured dataset.
-	* Theoretical concepts and the motivations behind different data-mining approaches.
+	- Solve real-word data-mining, data-indexing and information extraction tasks
+	- Demonstrate knowledge and understanding of:
+		* Key concepts, tools and approaches for data mining on complex unstructured dataset.
+		* Theoretical concepts and the motivations behind different data-mining approaches.
 
 2. Marking Scheme
 Good working notes papers not only effectively apply techniques and describe results, but also offer critical insight into the findings of the analysis in the context of the underlying data.   

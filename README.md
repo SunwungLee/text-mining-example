@@ -119,6 +119,8 @@ __> scipy.cluster.hierarchy import ward, dendrogram__
 - 마찬가지로 우리가 추출한 feature인 dist를 input으로 ward() 함수 진행.
 - 그 결과 값(matrix)을 바탕으로 plotting
 
+---
+
 ### Marking and Feedback
 1. Learning Outcomes
 - Solve real-word data-mining, data-indexing and information extraction tasks
